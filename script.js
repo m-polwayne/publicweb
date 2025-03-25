@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'https://ballroombookingapi.azurewebsites.net/api';
+const API_BASE_URL = 'https://ballrooms-api.azurewebsites.net';
 
 // DOM Elements
 const ballroomList = document.getElementById('ballroom-list');
